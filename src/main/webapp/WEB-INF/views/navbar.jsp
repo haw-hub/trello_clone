@@ -26,7 +26,7 @@
 </style>
 <nav class="navbar navbar-expand-lg navbar-dark px-3">
                 <a class="navbar-brand" href="${pageContext.request.contextPath}/dashboard">
-                    <i class="fas fa-layer-group me-2"></i> TrelloClone
+                    <i class="fas fa-layer-group me-2"></i> TrelloClone hahaha
                 </a>
 
                 <div class="ms-auto">
